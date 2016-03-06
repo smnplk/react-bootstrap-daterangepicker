@@ -20,7 +20,7 @@
     "bootstrap-daterangepicker": "^2.1.13"
   },
   "peerDependencies": {
-    "jquery": "^1.11.3",
+    "jquery": "^2.1.4",
     "react": "^0.14.0"
   },
   "devDependencies": {
